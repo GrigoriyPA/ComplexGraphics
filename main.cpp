@@ -6,10 +6,10 @@
 
 #include "add_functions.h"
 
-#include "ñommon_classes/Vect2.h"
-#include "ñommon_classes/Vect3.h"
-#include "ñommon_classes/Line2.h"
-#include "ñommon_classes/Complex.h"
+#include "common_classes/Vect2.h"
+#include "common_classes/Vect3.h"
+#include "common_classes/Line2.h"
+#include "common_classes/Complex.h"
 
 #include "special_classes/Complex_expression.h"
 
